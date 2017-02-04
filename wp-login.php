@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<title>user&#039;s Blog! &lsaquo; Log In</title>
+	<title>TheXchanged Life &lsaquo; Log In</title>
 	<link rel='dns-prefetch' href='//s.w.org'/>
 <link rel='stylesheet' href='./wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.7.2' type='text/css' media='all'/>
 <meta name='robots' content='noindex,follow'/>
@@ -15,7 +15,7 @@
 		</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
-		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">user&#039;s Blog!</a></h1>
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">TheXchanged Life</a></h1>
 	
 <form name="loginform" id="loginform" action="./wp-login.php" method="post">
 	<p>
@@ -41,7 +41,7 @@
 <script type="text/javascript">function wp_attempt_focus(){setTimeout(function(){try{d=document.getElementById('user_login');d.focus();d.select();}catch(e){}},200);}
 wp_attempt_focus();if(typeof wpOnload=='function')wpOnload();</script>
 
-	<p id="backtoblog"><a href="./index.html">&larr; Back to user&#039;s Blog!</a></p>
+	<p id="backtoblog"><a href="./index.html">&larr; Back to TheXchanged Life</a></p>
 	
 	</div>
 

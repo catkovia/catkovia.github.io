@@ -6,10 +6,10 @@
 	
 	>
 <channel>
-	<title>Comments on: Hello world!</title>
+	<title>Comments on: This is the Gospel</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
+	<description>Definitely Wordpress.</description>
 	<lastBuildDate>Wed, 18 Jan 2017 18:24:22 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
